@@ -4,11 +4,6 @@
 *Description:使用QQ的3G部分进行操作.最后的测试于:2011年6月10日
 *Author:ZY
 *Email:cnyzzy@vip.qq.com
-*QQ:554387970
-*Ps:
-*如发生失效的情况,请即时联系ZY
-*ZY版权所有
-*ZY945.COM
  */
 echo QQsend("QQ号","密码","要发送到的QQ","发送的内容");//调用
 
